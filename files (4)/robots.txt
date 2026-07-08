@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dentalzonemianwali.com/sitemap.xml
